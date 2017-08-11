@@ -1,3 +1,0 @@
-/home/saiclei/Programming/git/build/CMakeFiles/edit_cache.dir
-/home/saiclei/Programming/git/build/CMakeFiles/rebuild_cache.dir
-/home/saiclei/Programming/git/build/CMakeFiles/kitti2pcd.dir
